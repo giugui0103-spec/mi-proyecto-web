@@ -14,11 +14,10 @@ p {
 }
 
 button {
-    background-color: #3498db;
-    color: white;
+    background-color: green;
+    font-size: 20px;
+    border-radius: 8px;
     padding: 10px 20px;
-    border: none;
-    cursor: pointer;
 }
 
 button:hover {
